@@ -5,5 +5,5 @@ For Georgia Tech junior design 2019. Created a robotic plant that will respond a
 Shivani Adusumilli, Rachel Huang, An Dung Tran, Ashwin Vadivel
 
 # Final Design
-![alt text](front_flower.jpg |width=100)
-![alt text](back_flower.jpg | width=100)
+![](front_flower.jpg | width=100)
+![](back_flower.jpg | width=100)
